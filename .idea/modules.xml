@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JPushDemo.iml" filepath="$PROJECT_DIR$/JPushDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JpushDemo.iml" filepath="$PROJECT_DIR$/JpushDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
