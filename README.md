@@ -135,7 +135,8 @@
 	    }
 	}
 
-#参考 #
+
+# 参考 #
 
 [Android SDK 集成指南](http://docs.jiguang.cn/jpush/client/Android/android_guide/)
 
