@@ -118,6 +118,7 @@
         android:enabled="true">
         <intent-filter>
             <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" />
+			<!--替换成自己app的包名-->
             <category android:name="com.itheima.jpush" />
         </intent-filter>
     </receiver>
